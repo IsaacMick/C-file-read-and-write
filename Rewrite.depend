@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1558480795 source:c:\users\micki\desktop\rewrite\main.cpp
+	<iostream>
+	"File.cpp"
+	"File.h"
+
+1558481428 c:\users\micki\desktop\rewrite\file.cpp
+	"File.h"
+	<iostream>
+	<fstream>
+
+1558476736 c:\users\micki\desktop\rewrite\file.h
+	<string>
+
